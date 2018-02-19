@@ -1,0 +1,28 @@
+body {
+  font-size: 16px;
+}
+
+.blog-header {
+  padding: 15px 5px 15px 5px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.blog-header-logo {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-size: 4rem;
+  color: #000;
+}
+
+.blog-header-logo:hover {
+  text-decoration: none;
+}
+
+.nav {
+  padding: 10px;
+}
+
+nav a{
+  padding: 15px;
+  color: #000;
+  font-size: 1.5rem;
+}
