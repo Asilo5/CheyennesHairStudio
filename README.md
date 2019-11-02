@@ -7,7 +7,7 @@ Cheyenne Hair Studio was a practice project inspired by my friend Cheyenne who i
 
 ## View Cheyenne Hair Studio locally in your computer
 
-Clone the repo to your local computer by inserting this line in your terminal :``` $ git clone https://github.com/Asilo5/CheyennesHairStudio.git ```
+Clone repo on your terminal:``` $ git clone https://github.com/Asilo5/CheyennesHairStudio.git ```
 
 Open the file on your favourite text editor!
 
@@ -20,4 +20,6 @@ Cheyenne Hair Studio  was built using:
   
 ## Giph of Cheyenne Hair Studio 
 
-![giph of Cheyenne Hair Studio](coming soon! Check the page from the link above on description!)
+![intro to page](https://github.com/Asilo5/CheyennesHairStudio/blob/master/Screenshot%202019-11-01%20at%2021.46.36.png)
+![Prices](https://github.com/Asilo5/CheyennesHairStudio/blob/master/Screenshot%202019-11-01%20at%2021.47.07.png)
+![Quotes](https://github.com/Asilo5/CheyennesHairStudio/blob/master/Screenshot%202019-11-01%20at%2021.47.18.png)
